@@ -1,1 +1,2 @@
-# lms
+# LMS
+Php and My Sql
